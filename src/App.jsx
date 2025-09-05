@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Contact from './Contact'
 import Hero from './Hero'
 import Extra from './Extra'
-import logo2 from 'D:/website/CodingNinjas-Clone/src/assets/logo2.png'
+import logo2 from 'src/assets/logo2.png'
 import About from './About'
 
 
